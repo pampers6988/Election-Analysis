@@ -4,6 +4,8 @@
 The board of elections requeted that an election audit be performed for a congressional election.
 
 ## Election-Audit Results:
+![election analysis](https://user-images.githubusercontent.com/74462990/133004135-1a836b12-fa13-4360-9121-da64577cf4a6.PNG)
+
 - 369,711 votes were cast in this congressional election
 - Number of votes and the percentage of total votes for each county in the precinct
     Jefferson: 10.5% (38,855)
